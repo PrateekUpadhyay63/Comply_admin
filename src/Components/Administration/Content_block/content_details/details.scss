@@ -1,0 +1,51 @@
+// .rdw-editor-wrapper {
+//     box-sizing: content-box;
+//     outline: 1px solid #696969 !important;
+// }
+
+// .expend-card{
+//     border: 1px solid #80808099 ;
+//     border-radius: 10px;
+//     padding: 0;
+// margin: 10px;
+.MuiCollapse-vertical {
+    padding: 0 0 10px 0;
+  }
+  input,
+  .MuiSelect-select {
+    height: 1rem;
+  }
+  p {
+    opacity: 0.5;
+  }
+  ul {
+    opacity: 0.5;
+  }
+  .btn-cstm {
+    border: 1px solid black;
+    color: black;
+    opacity: 0.8;
+  }
+  .card-box {
+    border: 1px solid #80808099;
+    box-shadow: none;
+    .MuiCardContent-root {
+      padding: 0;
+      .heading {
+        padding: 5px;
+        background-color: rgb(190, 190, 190);
+      }
+      p {
+        padding: 5px;
+      }
+    }
+  }
+  .actionBtn {
+    display: flex !important;
+    justify-content: center !important;
+  }
+  .row{
+      margin-bottom: 2rem !important;
+  }
+  // }
+  
